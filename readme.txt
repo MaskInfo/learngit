@@ -4,4 +4,5 @@ git is under the GPL
 called stage
 git tracks changes of files
 my boss prefers svn
+create a new branch is quick
 
